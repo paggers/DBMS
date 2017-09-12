@@ -1,0 +1,4 @@
+a int,b float
+NaN,NOVALUE
+0,NaN
+NOVALUE,NaN

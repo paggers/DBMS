@@ -1,0 +1,2 @@
+The reason we are turning the project late is since we were only able to only get to a certain amount of points (98),
+ but we seemed to fail a very specific case so we wanted to ask a TA in OH the next day so that we can fix it.
